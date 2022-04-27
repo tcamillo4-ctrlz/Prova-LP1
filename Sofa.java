@@ -27,7 +27,7 @@ public class Sofa{
     public void setReclinado(String novoreclinado) {
         reclinado = novoreclinado;
     }
-    public String getTecido() {
+    public String getRelinado() {
         return reclinado;  
     }
 
