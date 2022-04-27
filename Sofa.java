@@ -24,7 +24,7 @@ public class Sofa{
         return tamanho;  
     }
 
-    public void setReclinado(String novoreclinado) {
+    public void setReclinado(boolean novoreclinado) {
         reclinado = novoreclinado;
     }
     public String getRelinado() {
